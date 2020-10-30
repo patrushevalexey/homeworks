@@ -1,5 +1,7 @@
 package ru.geekbrains.gb;
 
+import java.util.Arrays;
+
 public class lesson2 {
 
     public static void main(String[] args) {
@@ -44,7 +46,6 @@ public class lesson2 {
 
     static void taskseven() {
         System.out.println("Задание №7");
-        System.out.println();
     }
 
 }
