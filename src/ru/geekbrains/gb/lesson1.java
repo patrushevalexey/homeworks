@@ -31,7 +31,6 @@ public class lesson1 {
         } else {
             System.out.println("false");
         }
-
     }
 
     public static void positiveOrNegative(int a) {
@@ -47,7 +46,6 @@ public class lesson1 {
         if (a < 0) {
             System.out.println("true");
         }
-
     }
 
     static void greeting(String name) {
@@ -60,7 +58,6 @@ public class lesson1 {
         } else {
             System.out.println("Год високосный.");
         }
-
     }
 }
 
